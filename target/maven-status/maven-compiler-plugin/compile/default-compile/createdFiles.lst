@@ -1,0 +1,4 @@
+com/tradetest/websocket/ChatEndpoint.class
+com/tradetest/websocket/MessageEncoder.class
+com/tradetest/websocket/MessageDecoder.class
+com/tradetest/model/Message.class
