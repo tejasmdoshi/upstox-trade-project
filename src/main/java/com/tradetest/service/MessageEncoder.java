@@ -1,4 +1,4 @@
-package com.tradetest.websocket;
+package com.tradetest.service;
 
 import javax.websocket.EncodeException;
 import javax.websocket.Encoder;
